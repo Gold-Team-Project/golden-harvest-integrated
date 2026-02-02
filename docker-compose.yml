@@ -40,6 +40,7 @@ services:
       SERVER_PORT: 8080 # 각 서비스 하단에서 오버라이드
     env_file: .env
     depends_on: [kafka, redis]
+    command: ["java", "-jar", "app.jar"]
 
   auth-service:
     build: ./apps/auth
@@ -51,6 +52,7 @@ services:
       SERVER_PORT: 8081
     env_file: .env
     depends_on: [kafka, redis]
+    command: ["java", "-jar", "app.jar"]
 
   user-service:
     build: ./apps/user
@@ -62,6 +64,7 @@ services:
       SERVER_PORT: 8082
     env_file: .env
     depends_on: [kafka, redis]
+    command: ["java", "-jar", "app.jar"]
 
   sales-service:
     build: ./apps/sales
@@ -73,6 +76,7 @@ services:
       SERVER_PORT: 8083
     env_file: .env
     depends_on: [kafka, redis]
+    command: ["java", "-jar", "app.jar"]
 
   inventory-service:
     build: ./apps/inventory
@@ -84,6 +88,7 @@ services:
       SERVER_PORT: 8084
     env_file: .env
     depends_on: [kafka, redis]
+    command: ["java", "-jar", "app.jar"]
 
   master-data-service:
     build: ./apps/master-data
@@ -95,6 +100,7 @@ services:
       SERVER_PORT: 8085
     env_file: .env
     depends_on: [kafka, redis]
+    command: ["java", "-jar", "app.jar"]
 
   purchases-service:
     build: ./apps/purchases
@@ -106,6 +112,7 @@ services:
       SERVER_PORT: 8086
     env_file: .env
     depends_on: [kafka, redis]
+    command: ["java", "-jar", "app.jar"]
 
   notification-service:
     build: ./apps/notification
@@ -117,6 +124,7 @@ services:
       SERVER_PORT: 8087
     env_file: .env
     depends_on: [kafka, redis]
+    command: ["java", "-jar", "app.jar"]
 
   customer-support-service:
     build: ./apps/customer-support
@@ -128,6 +136,7 @@ services:
       SERVER_PORT: 8088
     env_file: .env
     depends_on: [kafka, redis]
+    command: ["java", "-jar", "app.jar"]
 
 networks:
   default:
