@@ -165,11 +165,8 @@
 ### 9. **CI / CI 확인서**
 
 
-=======
->>>>>>> a647d01af394d30f062fb9687cc5f253a56821db
-<br>
+[CD/CI 계획서 바로가기](https://docs.google.com/document/d/1Sxy1Ejwn2TxGJd503POilREHas1SwaonmYCnl7NmaEQ/edit?usp=sharing)에서 확인하실 수 있습니다.
 
-<br>
 
 ## ⏳ **6. 사용자 흐름 **
 
@@ -185,7 +182,4 @@
 </details>
 
 ## ⚠️ **8. 트러블 슈팅**
-<<<<<<< HEAD
-=======
 
->>>>>>> a647d01af394d30f062fb9687cc5f253a56821db
