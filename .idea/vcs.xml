@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/ai" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/customer-support" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/inventory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/master-data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/notification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/purchases" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/sales" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/user" vcs="Git" />
+  </component>
+</project>
