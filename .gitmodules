@@ -16,7 +16,7 @@
 	branch = main
 [submodule "apps/auth"]
 	path = apps/auth
-	url = git@github.com:Gold-Team-Project/golden-harvest-master-data.git
+	url = git@github.com:Gold-Team-Project/golden-harvest-auth.git
 	branch = main
 [submodule "apps/user"]
 	path = apps/user
