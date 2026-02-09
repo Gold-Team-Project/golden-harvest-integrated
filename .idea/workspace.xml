@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b4bce94-f8ae-446d-9197-76957b4fccae" name="변경" comment="통합테스트 확인서" />
+    <list default="true" id="3b4bce94-f8ae-446d-9197-76957b4fccae" name="변경" comment="push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/ai" beforeDir="false" afterPath="$PROJECT_DIR$/apps/ai" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api-gateway" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api-gateway" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/apps/frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update" beforeDir="false" afterPath="$PROJECT_DIR$/update" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="806" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,6 +37,10 @@
     &quot;accountId&quot;: &quot;c3440e94-3666-43f3-8b11-f0ff7cd53e82&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -60,6 +75,11 @@
     "to.speed.mode.migration.done": "true",
     "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -80,6 +100,7 @@
       <workItem from="1770020817413" duration="859000" />
       <workItem from="1770171047500" duration="847000" />
       <workItem from="1770251548740" duration="4252000" />
+      <workItem from="1770520799136" duration="7436000" />
     </task>
     <task id="LOCAL-00001" summary="통합테스트 확인서">
       <option name="closed" value="true" />
@@ -100,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="통합테스트 확인서" />
-    <option name="LAST_COMMIT_MESSAGE" value="통합테스트 확인서" />
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
 </project>

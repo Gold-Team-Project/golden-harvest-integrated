@@ -157,29 +157,18 @@
 <summary> UI / UX 단위 테스트</summary>
 <img alt="Image" src="readme/front-test.png" />
 </details>
-<<<<<<< HEAD
 
 ### 8. **통합테스트 결과확인서**
 [통합테스트 결과확인서 바로가기](https://docs.google.com/spreadsheets/d/1p8wzwzDGl9R8osDn-bAnT8OMyAyctOpUV4opBEI55zY/edit?gid=668838072#gid=668838072)에서 확인하실 수 있습니다.
 
 ### 9. **CI / CI 확인서**
 
-
 [CD/CI 계획서 바로가기](https://docs.google.com/document/d/1Sxy1Ejwn2TxGJd503POilREHas1SwaonmYCnl7NmaEQ/edit?usp=sharing)에서 확인하실 수 있습니다.
 
-
-## ⏳ **6. 사용자 흐름 **
-
-### **API GIF**
-
-### **GUIDE URL**
-
-## ⚙️ **7. 아키텍쳐**
+### 10. **아키텍쳐**
 
 <details> 
 <summary> 아키텍쳐</summary>
 <img alt="Image" src="readme/Architecture.drawio.png" />
 </details>
-
-## ⚠️ **8. 트러블 슈팅**
 
